@@ -6,7 +6,7 @@ This repository contains the `Python` codes needed to prepare the data, train an
 * code to generate semantics features, reliable home locations and ses-enriched datasets from users tweets and census, is in the [helpers](./python_scripts/helpers) folder
 
 <p float="left">
-  <img src="./imgs/remade_PARIS.jpeg" width="99%"/>
+  <img src="./imgs/PARIS.jpeg" width="99%"/>
 </p>
 
 * `Keras` implementations of the `EfficientNet` used in this paper to select residential sites are in the [data collection and processing](./python_scripts/data_coll_process) folder (with a `TensorFlow` backend)
