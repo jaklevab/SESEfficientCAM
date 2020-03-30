@@ -18,7 +18,7 @@ Datasets folders
 
 This project relies upon three datasets:
 
-* __2019 Socioeconomic Census__: Automatically crawled in the provided `data_setup.sh` and containing the shapefiles tiling the whole country into individual cells with socioeconomic data. Requires to run `data_setup.sh`.
+* __2019 Socioeconomic Census__: Automatically crawled in the provided `data_setup.sh` and containing the shapefiles tiling the whole country into individual cells with socioeconomic data. Requires to run [`data_setup.sh`](./code/data_setup.sh).
 
 * __Urban Atlas Dataset__: In order to collect this dataset, you'll need to create an account in the [ESA Copernicus register](https://land.copernicus.eu/local/urban-atlas/urban-atlas-2012) and download the files corresponding to the 5 cities in our study, namely,  Paris, Lyon, Nice, Marseille and Lille. These should all be placed in `./data/UA_data/` and unzipped.
 
