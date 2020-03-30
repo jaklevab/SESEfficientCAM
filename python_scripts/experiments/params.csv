@@ -1,7 +1,0 @@
-desired_size,crop,multiple_crops,pretrained,jitter
-224,False,False,True,True
-224,True,False,True,True
-224,True,True,True,True
-224,False,False,False,True
-224,True,False,False,True
-224,True,True,False,True
