@@ -36,7 +36,7 @@ dependencies:
   - gtk2=2.24.31=hb68c50a_1001
   - harfbuzz=2.3.1=h6824563_0
   - hdf4=4.2.13=h9a582f1_1002
-  - hdf5=1.10.4=nompi_h11e915b_1105
+  - hdf5=1.10.4=hb1b8bf9_0
   - icu=58.2=hf484d3e_1000
   - jpeg=9c=h14c3975_1001
   - json-c=0.13.1=h14c3975_1001
@@ -56,7 +56,7 @@ dependencies:
   - libnetcdf=4.6.2=hbdf4f91_1001
   - libpng=1.6.36=h84994c4_1000
   - libpq=10.6=h13b8bad_1000
-  - libspatialindex=1.8.5=hf484d3e_1003
+  - libspatialindex=1.8.5=h20b78c2_2
   - libspatialite=4.3.0a=hb5ec416_1026
   - libssh2=1.8.0=h1ad7b7a_1003
   - libstdcxx-ng=7.3.0=hdf63c60_0
@@ -92,7 +92,7 @@ dependencies:
   - pytz=2018.9=py_0
   - qt=5.6.2=hce4f676_1013
   - readline=7.0=hf8c457e_1001
-  - rtree=0.8.3=py36_1000
+  - rtree=0.8.3=py36h666c49c_1002
   - seaborn=0.9.0=py_0
   - setuptools=40.7.1=py36_0
   - shapely=1.6.4=py36h092830f_1002
