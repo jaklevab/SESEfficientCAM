@@ -1,0 +1,148 @@
+name: release_bv
+channels:
+- conda-forge
+- defaults
+dependencies:
+- atk=2.25.90=hb9dd440_1002
+- attrs=18.2.0=py_0
+- boost-cpp=1.68.0=h11c811c_1000
+- bzip2=1.0.6=h14c3975_1002
+- ca-certificates=2018.11.29=ha4d7672_0
+- cairo=1.16.0=ha4e643d_1000
+- certifi=2018.11.29=py36_1000
+- click=7.0=py_0
+- click-plugins=1.0.4=py_0
+- cligj=0.5.0=py_0
+- curl=7.63.0=h646f8bb_1000
+- cycler=0.10.0=py_1
+- dbus=1.13.0=h4e0c4b3_1000
+- descartes=1.1.0=py_2
+- expat=2.2.5=hf484d3e_1002
+- fiona=1.8.4=py36h1c6dbfb_1002
+- fontconfig=2.13.1=h2176d3f_1000
+- freetype=2.9.1=h94bbf69_1005
+- freexl=1.0.5=h14c3975_1002
+- gdal=2.4.0=py36h1c6dbfb_1002
+- gdk-pixbuf=2.36.12=h49783d7_1002
+- geopandas=0.4.0=py_1
+- geos=3.7.1=hf484d3e_1000
+- geotiff=1.4.3=h1105359_1000
+- gettext=0.19.8.1=h9745a5d_1001
+- giflib=5.1.4=h14c3975_1001
+- glib=2.58.2=hf63aee3_1001
+- gobject-introspection=1.58.2=py36h2da5eee_1000
+- graphite2=1.3.13=hf484d3e_1000
+- gstreamer=1.14.4=h66beb1c_1001
+- gtk2=2.24.31=hb68c50a_1001
+- harfbuzz=2.3.1=h6824563_0
+- hdf4=4.2.13=h9a582f1_1002
+- hdf5=1.10.4=nompi_h11e915b_1105
+- icu=58.2=hf484d3e_1000
+- jpeg=9c=h14c3975_1001
+- json-c=0.13.1=h14c3975_1001
+- kealib=1.4.10=he7154bc_1002
+- kiwisolver=1.0.1=py36h6bb024c_1002
+- krb5=1.16.3=hc83ff2d_1000
+- libcurl=7.63.0=h01ee5af_1000
+- libdap4=3.19.1=hd48c02d_1000
+- libedit=3.1.20170329=hf8c457e_1001
+- libffi=3.2.1=hf484d3e_1005
+- libgcc-ng=7.3.0=hdf63c60_0
+- libgdal=2.4.0=h982c1cc_1002
+- libgfortran=3.0.0=1
+- libgfortran-ng=7.2.0=hdf63c60_3
+- libiconv=1.15=h14c3975_1004
+- libkml=1.3.0=h328b03d_1009
+- libnetcdf=4.6.2=hbdf4f91_1001
+- libpng=1.6.36=h84994c4_1000
+- libpq=10.6=h13b8bad_1000
+- libspatialindex=1.8.5=hf484d3e_1003
+- libspatialite=4.3.0a=hb5ec416_1026
+- libssh2=1.8.0=h1ad7b7a_1003
+- libstdcxx-ng=7.3.0=hdf63c60_0
+- libtiff=4.0.10=h9022e91_1002
+- libuuid=2.32.1=h14c3975_1000
+- libxcb=1.13=h14c3975_1002
+- libxml2=2.9.8=h143f9aa_1005
+- matplotlib=3.0.2=py36_1002
+- matplotlib-base=3.0.2=py36h167e16e_1002
+- munch=2.3.2=py_0
+- ncurses=6.1=hf484d3e_1002
+- openjpeg=2.3.0=hf38bd82_1003
+- openssl=1.0.2p=h14c3975_1002
+- palettable=3.1.1=py_0
+- pandas=0.24.1=py36hf484d3e_0
+- pango=1.40.14=h4ea9474_1004
+- patsy=0.5.1=py_0
+- pcre=8.41=hf484d3e_1003
+- pip=19.0.1=py36_0
+- pixman=0.34.0=h14c3975_1003
+- poppler=0.67.0=h2ad7f00_6
+- poppler-data=0.4.9=1
+- postgresql=10.6=h66cca7a_1000
+- proj4=5.2.0=h14c3975_1001
+- psycopg2=2.7.7=py36hb7f436b_0
+- pthread-stubs=0.4=h14c3975_1001
+- pyparsing=2.3.1=py_0
+- pyproj=1.9.6=py36hc0953d3_1000
+- pyqt=5.6.0=py36h13b7fb3_1008
+- pysal=2.0.0=py_0
+- python=3.6.7=hd21baee_1001
+- python-dateutil=2.8.0=py_0
+- pytz=2018.9=py_0
+- qt=5.6.2=hce4f676_1013
+- readline=7.0=hf8c457e_1001
+- rtree=0.8.3=py36_1000
+- seaborn=0.9.0=py_0
+- setuptools=40.7.1=py36_0
+- shapely=1.6.4=py36h092830f_1002
+- sip=4.18.1=py36hf484d3e_1000
+- six=1.12.0=py36_1000
+- sqlalchemy=1.2.17=py36h14c3975_0
+- sqlite=3.26.0=h67949de_1000
+- statsmodels=0.9.0=py36h3010b51_1000
+- tk=8.6.9=h84994c4_1000
+- tornado=5.1.1=py36h14c3975_1000
+- tzcode=2018g=h14c3975_1001
+- wheel=0.32.3=py36_0
+- xerces-c=3.2.2=hac72e42_1001
+- xorg-kbproto=1.0.7=h14c3975_1002
+- xorg-libice=1.0.9=h14c3975_1004
+- xorg-libsm=1.2.3=h4937e3b_1000
+- xorg-libx11=1.6.6=h14c3975_1000
+- xorg-libxau=1.0.8=h14c3975_1006
+- xorg-libxdmcp=1.1.2=h14c3975_1007
+- xorg-libxext=1.3.3=h14c3975_1004
+- xorg-libxrender=0.9.10=h14c3975_1002
+- xorg-libxt=1.1.5=h14c3975_1002
+- xorg-renderproto=0.11.1=h14c3975_1002
+- xorg-xextproto=7.3.0=h14c3975_1002
+- xorg-xproto=7.0.31=h14c3975_1007
+- xz=5.2.4=h14c3975_1001
+- zlib=1.2.11=h14c3975_1004
+- zstd=1.3.3=1
+- pip:
+  - argparse==1.1
+  - efficientnet==1.0.0
+ - fiona==1.8.4
+ - geopandas==0.4.1
+ - geotiff==1.4.2
+ - joblib==0.11
+ - keras==2.2.4
+ - numpy==1.16.2
+ - opencv-python==4.1.2.30
+ - pandas==0.24.2
+ - proj4==5.2.0
+ - pyproj==1.9.6
+ - rasterio==1.0.15
+ - rasterstats==0.13.1
+ - rtree==0.8.3
+ - scikit-image==0.15.0
+ - scikit-learn==0.20.3
+ - scipy==1.2.1
+ - seaborn==0.9.0
+ - shapely==1.6.4
+ - statsmodels==0.9.0
+ - tensorflow-gpu==1.8.0
+ - tqdm==4.30.0
+ prefix: /home/jlevyabi/anaconda3/envs/release_bv

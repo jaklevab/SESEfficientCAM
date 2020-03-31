@@ -11,7 +11,7 @@ This repository contains the code needed to prepare the data, train the SES infe
 Setup
 -----
 
-This project uses mostly Python . To replicate our results, using Anaconda, set up the environment the provided Dockerfile.
+This project uses mostly Python . To replicate our results, using Anaconda, set up the environment  with the provided with `conda env create -f environment/environment.yml` (this builds the Rust extensions in this package, and installs them locally).
 
 Datasets folders
 ----------------
