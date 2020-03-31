@@ -22,7 +22,7 @@ dependencies:
   - fontconfig=2.13.1=h2176d3f_1000
   - freetype=2.9.1=h94bbf69_1005
   - freexl=1.0.5=h14c3975_1002
-  - gdal=2.4.0=py36h1c6dbfb_1002
+  - gdal=2.3.3=py37hbb2a789_0
   - gdk-pixbuf=2.36.12=h49783d7_1002
   - geopandas=0.4.0=py_1
   - geos=3.7.1=hf484d3e_1000
@@ -36,7 +36,7 @@ dependencies:
   - gtk2=2.24.31=hb68c50a_1001
   - harfbuzz=2.3.1=h6824563_0
   - hdf4=4.2.13=h9a582f1_1002
-  - hdf5=1.10.4=nompi_h11e915b_1105
+  - hdf5=1.10.4=hb1b8bf9_0
   - icu=58.2=hf484d3e_1000
   - jpeg=9c=h14c3975_1001
   - json-c=0.13.1=h14c3975_1001
@@ -48,7 +48,7 @@ dependencies:
   - libedit=3.1.20170329=hf8c457e_1001
   - libffi=3.2.1=hf484d3e_1005
   - libgcc-ng=7.3.0=hdf63c60_0
-  - libgdal=2.4.0=h982c1cc_1002
+  - libgdal=2.3.3=h2e7e64b_0
   - libgfortran=3.0.0=1
   - libgfortran-ng=7.2.0=hdf63c60_3
   - libiconv=1.15=h14c3975_1004
@@ -56,7 +56,7 @@ dependencies:
   - libnetcdf=4.6.2=hbdf4f91_1001
   - libpng=1.6.36=h84994c4_1000
   - libpq=10.6=h13b8bad_1000
-  - libspatialindex=1.8.5=hf484d3e_1003
+  - libspatialindex=1.8.5=h20b78c2_2
   - libspatialite=4.3.0a=hb5ec416_1026
   - libssh2=1.8.0=h1ad7b7a_1003
   - libstdcxx-ng=7.3.0=hdf63c60_0
@@ -92,7 +92,7 @@ dependencies:
   - pytz=2018.9=py_0
   - qt=5.6.2=hce4f676_1013
   - readline=7.0=hf8c457e_1001
-  - rtree=0.8.3=py36_1000
+  - rtree=0.8.3=py37_0
   - seaborn=0.9.0=py_0
   - setuptools=40.7.1=py36_0
   - shapely=1.6.4=py36h092830f_1002
