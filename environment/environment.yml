@@ -25,7 +25,7 @@ dependencies:
   - gdal=2.4.4=py37h5f563d9_0
   - gdk-pixbuf=2.36.12=h49783d7_1002
   - geopandas=0.4.0=py_1
-  - geos=3.8.0=he1b5a44_1
+  - geos=3.7.1=hf484d3e_1000
   - geotiff=1.4.3=h1105359_1000
   - gettext=0.19.8.1=h9745a5d_1001
   - giflib=5.1.4=h14c3975_1001
