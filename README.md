@@ -1,5 +1,5 @@
 # Socioeconomic correlations of urban patterns inferred from aerial images: interpreting activation maps of Convolutional Neural Networks
-This repository contains code related to the paper [Socioeconomic correlations of urban patterns inferred from aerial images: interpreting activation maps of Convolutional Neural Networks](http://perso.ens-lyon.fr/marton.karsai/) (currently in submission).
+This repository contains code related to the paper [Socioeconomic correlations of urban patterns inferred from aerial images: interpreting activation maps of Convolutional Neural Networks](https://arxiv.org/abs/2004.04907) (currently in submission).
 
 This repository contains the code needed to prepare the data, train the SES inference model and project the activation maps unto the land cover maps.
 
